@@ -1,4 +1,8 @@
-### Hi there 👋
+## ¡Hola hola, caracola! 👋 Te doy la bienvenida a mi GitHub. 💻
+
+### Adentrándome en el mundo de la programación.
+
+⏩️ Actualmente: aprendiendo Javascript con el equipazo de [**Lemoncode**](https://github.com/Lemoncode). 
 
 <!--
 **Laezne/Laezne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
